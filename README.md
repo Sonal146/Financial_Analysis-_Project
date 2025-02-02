@@ -1,13 +1,16 @@
 # Overview:
 This project conducts a comprehensive financial analysis of banking data using SQL, Power BI, Excel, and Tableau. The objective is to provide actionable insights through dynamic dashboards and advanced data analysis, empowering stakeholders in the banking sector to make data-driven decisions.
 
+https://github.com/user-attachments/assets/754d6a47-68f5-4266-bea3-580b137e8728
+
+
 The dataset includes key attributes like loan amounts, repayment statuses, interest rates, and borrower demographics, offering a 360-degree view of the bank's performance. Each tool plays a critical role in building an end-to-end data pipeline, from cleaning raw data to creating insightful visualizations.
 
 # Objectives:
 
 ## Visualize Key Banking Metrics:
 
-## Create interactive visuals for KPIs such as total loan amounts, funded amounts, average interest rates, and revolving balances.
+Create interactive visuals for KPIs such as total loan amounts, funded amounts, average interest rates, and revolving balances.
 Analyze Customer Behavior:
 
 ## Segment customers based on loan grades, verification statuses, and home ownership.
