@@ -65,39 +65,43 @@ Identified geographic hotspots for better market targeting.
 
 
  #  Business Questions Answered:
-## 1 What are the trends in loan issuance and repayment over time?
+1 What are the trends in loan issuance and repayment over time?
 
-## 2 Yearly and monthly trends provide clear insights into loan activity.
+2 Yearly and monthly trends provide clear insights into loan activity.
 
-## 3 Which customer segments are the most profitable?
+ 3 Which customer segments are the most profitable?
 
-## 4 Customer segmentation based on loan grades and verification statuses identifies high-value segments.
+4 Customer segmentation based on loan grades and verification statuses identifies high-value segments.
 
-## 5 How does geographic location influence loan performance?
+ 5 How does geographic location influence loan performance?
 
-## 6 State-wise analysis highlights regions with high and low loan performance metrics.
+ 6 State-wise analysis highlights regions with high and low loan performance metrics.
 
-## 7 What are the top reasons borrowers take loans?
+ 7 What are the top reasons borrowers take loans?
 
-## 8 Purpose-wise insights help identify the most common loan purposes.
-## 9 Which loans pose the highest risk of default?
+8 Purpose-wise insights help identify the most common loan purposes.
 
-## 10 Risk analysis categorizes loans by grades and statuses to identify high-risk segments.
-## 11 How can repayment behavior be optimized?
+9 Which loans pose the highest risk of default?
 
-## 12 Monthly payment trends provide insights into repayment patterns and potential process improvements.
-## 13Which states generate the highest loan revenue?
+ 10 Risk analysis categorizes loans by grades and statuses to identify high-risk segments.
+ 
+ 11 How can repayment behavior be optimized?
 
-## 14 State-wise heatmaps reveal geographic hotspots for banking services.
-## 15 What are the patterns in interest rates across different loan types?
+ 12 Monthly payment trends provide insights into repayment patterns and potential process improvements.
+ 
+13 Which states generate the highest loan revenue?
 
-## 16 Average interest rate analysis uncovers variations by loan grades and purposes.
-## 17 How do loan amounts vary across different borrower demographics?
+14 State-wise heatmaps reveal geographic hotspots for banking services.
 
-## 18 Segmentation by demographics like home ownership and verification status highlights loan trends.
-## 19 What are the seasonal trends in loan issuance and repayments?
+ 15 What are the patterns in interest rates across different loan types?
 
-## 20 Time-series analysis helps uncover seasonal patterns and forecast future trends.
+ 16 Average interest rate analysis uncovers variations by loan grades and purposes.
+17 How do loan amounts vary across different borrower demographics?
+
+18 Segmentation by demographics like home ownership and verification status highlights loan trends.
+ 19 What are the seasonal trends in loan issuance and repayments?
+
+ 20 Time-series analysis helps uncover seasonal patterns and forecast future trends.
 
 # Value of This Analysis:
 Improved Strategic Decision-Making: Supports banking executives in tailoring strategies based on data insights.
