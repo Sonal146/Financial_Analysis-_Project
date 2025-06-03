@@ -8,24 +8,24 @@ The dataset includes key attributes like loan amounts, repayment statuses, inter
 
 # Objectives:
 
-## Visualize Key Banking Metrics:
+ Visualize Key Banking Metrics:
 
 Create interactive visuals for KPIs such as total loan amounts, funded amounts, average interest rates, and revolving balances.
 Analyze Customer Behavior:
 
-## Segment customers based on loan grades, verification statuses, and home ownership.
+ Segment customers based on loan grades, verification statuses, and home ownership.
 Monitor Financial Trends:
 
-## Track loan issuance, repayment behaviors, and outstanding balances over time.
+ Track loan issuance, repayment behaviors, and outstanding balances over time.
 Identify High-Risk Segments:
 
-## Highlight delinquent or underperforming loans using filters for grades, statuses, and verification.
+Highlight delinquent or underperforming loans using filters for grades, statuses, and verification.
 Enable Regional Analysis:
 
-## Understand state-wise performance through customer distributions and funded amounts.
+Understand state-wise performance through customer distributions and funded amounts.
 Highlight Top Loan Purposes:
 
-## Identify the most common loan purposes, enabling more targeted offerings.
+ Identify the most common loan purposes, enabling more targeted offerings.
 
 # Tools and Their Roles:
 ## 1.SQL:
